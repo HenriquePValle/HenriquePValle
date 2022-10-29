@@ -16,7 +16,7 @@
 <img height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
         
-<img height="100em" src="Octocat - GitHub Escola.png" alt="Avatar do GitHub Personalizado" title="Avatar Octocat"> 
+<img height="300em" src="Octocat - GitHub Escola.png" alt="Avatar do GitHub Personalizado" title="Avatar Octocat"> 
  
 
 <!---
