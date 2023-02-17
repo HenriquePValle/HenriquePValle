@@ -2,14 +2,15 @@
 
 ### Disiciplinas: 
 #### - Pensamento Computacional
+#### - Programação Web
 #### - Banco de Dados
-#### - Redes
+#### - Análise e Projetos
+#### - Ciências da Computação
 #### - Informática Básica
 
 ##### <em>Colégios:
 - CEEP PG
 - Regente Feijó
-- Polivalente
 </em>
 #### Tecnologias:
 
