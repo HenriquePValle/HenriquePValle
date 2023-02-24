@@ -18,7 +18,6 @@
           
         
 <img height="300em" src="Imagens/Octocat - GitHub Escola.png" alt="Avatar do GitHub Personalizado" title="Avatar Octocat"> 
- 
 
 <!---
 HenriquePValle/HenriquePValle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
