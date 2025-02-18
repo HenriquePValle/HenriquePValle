@@ -11,6 +11,7 @@
 #### - Ciências da Computação
 #### - Lógica Computacional
 #### - Redes
+#### - Linguagens de Programação
 #### - Informática Básica
 #### - Pensamento Computacional
 
