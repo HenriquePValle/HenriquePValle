@@ -15,8 +15,8 @@
 #### - Informática Básica
 
 ##### <em>Colégios:
-- CEEP PG
-- Regente Feijó
+- <img height=25px src="Imagens/Logo CEEP PG.png" />  Centro Estadual de Educação Profissional de Ponta Grossa
+- <img height=25px src="Imagens/Logo Regente.png" />   Colégio Estadual Regente Feijó
 </em>
 
 ### Tecnologias:
@@ -27,7 +27,7 @@
 
           
         
-<img height="300em" src="Imagens/Octocat - GitHub Escola.png" alt="Avatar do GitHub Personalizado" title="Avatar Octocat"> 
+<img height="200em" src="Imagens/Octocat - GitHub Escola.png" alt="Avatar do GitHub Personalizado" title="Avatar Octocat"> 
 
 <!---
 HenriquePValle/HenriquePValle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
