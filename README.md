@@ -3,13 +3,13 @@
 I'm a Teacher, Developer and Computer Engineer living in Paraná, :brazil: Brazil. I love puzzles, physics, tecnology and, specially, learning how things works in a foundmental level. Enjoy cybersecurity, Open Source and DIY projects.
 
 <details>
-<summary>## 🎓 Formation</summary>
+<summary><h2>🎓 Formation</h2></summary>
 - I graduate in Computer Engineering on 2013 at State University of Ponta Grossa <abbr title="Universidade Estadual de Ponta Grossa">UEPG</abbr>.
 Since then I keep learning new things and applying it on my daily life.
 </details>
 
 <details>
-<summary>## :toolbox: Toolbox</summary>
+<summary><h2>:toolbox: Toolbox</h2></summary>
           
 #### 👅 Programming Languages
 ![Java](https://img.shields.io/badge/Java-EA861C?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-%20-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&labelColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto&labelColor=%2300599C)
@@ -34,7 +34,7 @@ Since then I keep learning new things and applying it on my daily life.
 </details>
 
 <details>
-<summary>## Working</summary>
+<summary><h2> 👨🏻‍🏫 Working</h2></summary>
 
 #### Currently, I'm working on public professional education at:
 - <img height=25px src="Imagens/Logo CEEP PG.png" /> Centro Estadual de Educação Profissional de Ponta Grossa
@@ -46,7 +46,7 @@ Since then I keep learning new things and applying it on my daily life.
 - 🛢️💾 Databases
 - 💻⚙️ Computer Science
 - 📊⚛︎ Data Science
-- 🖧🌐 Network
+- 🖧🌐 Computer Network
 </details>
 
         
